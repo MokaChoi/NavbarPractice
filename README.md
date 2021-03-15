@@ -6,3 +6,5 @@
 
 
 ## 사진
+<img width="885" alt="스크린샷 2021-03-15 오후 2 26 54" src="https://user-images.githubusercontent.com/78836615/111108255-d2eb6780-859b-11eb-9033-397052264acc.png">
+<img width="612" alt="스크린샷 2021-03-15 오후 2 26 45" src="https://user-images.githubusercontent.com/78836615/111108264-d7178500-859b-11eb-8e1f-f8a36dff3578.png">
